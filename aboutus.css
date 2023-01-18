@@ -1,0 +1,149 @@
+body{
+    background-image: url(yoga-gd165ce1f4_1920.jpg) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.mid{
+    display: block;                  
+    width: 100%;
+    margin: 0px auto;
+    right: 0px;
+    position: absolute;
+}
+.navbar{
+    display: inline-block;
+    border-color: 2px black;
+}
+.navbar li{
+    font-size: 22px;
+    display: inline-block;
+    margin-left: 300px;
+    text-decoration: none;
+   
+}
+.navbar li a{
+    color: rgb(250, 29, 4);
+    text-decoration: none;
+}
+.navbar li a:hover{
+   color: antiquewhite;
+    text-decoration: underline;
+    
+}
+.navbar li a:active{
+   color: antiquewhite;
+    text-decoration: underline;
+}
+.image1{
+    display: inline-block;
+    position: absolute;
+    top: 80px;
+    left: 400px;
+    color: white;
+}
+.image2{
+    display: inline-block;
+    position: absolute;
+    top: 140px;
+    left: 270px;
+    border-color: rgb(255, 157, 0);
+    background-color: rgb(255, 157, 0);
+    color: black;
+    font-size: 16px;
+    padding: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.image3 h1{
+    display: inline-block;
+    position: absolute;
+    top: 130px;
+    left: 230px;
+    color: white; 
+    font-size: 120px;
+}
+.image3 h2{
+    display: inline-block;
+    position: absolute;
+    top: 266px;
+    left: 290px;
+    color: white; 
+    font-size: 80px;
+}
+.image4{
+        display: inline-block;
+        position: absolute;
+        top: 500px;
+        left: 5px;
+        color: white; 
+        font-size: 25px;
+}
+.image5{
+    display: inline-block;
+    position: absolute;
+    top: 570px;
+    left: 5px;
+    color: white; 
+    font-size: 20px;
+}
+.underline{
+   
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    position: absolute;
+    top: 600px;
+    left: 5px;
+
+}
+.underline2{
+   
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    position: absolute;
+    top: 603px;
+    left: 5px;
+
+}
+.underline3{
+   
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    position: absolute;
+    top: 655px;
+    left: 5px;
+
+}
+.underline4{
+   
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    position: absolute;
+    top: 658px;
+    left: 5px;
+
+}
+.image6{
+    display: inline-block;
+    position: absolute;
+    top: 690px;
+    left: 5px;
+    color: rgb(242, 250, 2); 
+    font-size: 30px;    
+}
+.image7 a{
+    display: inline-block;
+    position: absolute;
+    top: 810px;
+    left: 5px;
+    color: white; 
+    font-size: 25px;  
+    text-decoration-line: none;  
+}
+.image7 a:hover{
+    color:orange;
+    text-decoration-line: underline;
+}
